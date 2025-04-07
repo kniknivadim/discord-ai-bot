@@ -4,8 +4,8 @@ import openai
 import asyncio
 
 # ⚠️ Обязательно замени токены после тестов
-DISCORD_TOKEN = "MTM1ODQxODQ1MzQ2MzE3MTMwNg.GmoTt2.6BRfZjJR3OJ-28nq4W1HQQhPNS-FhsWkgAhKMs"
-OPENAI_API_KEY = "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"
+DISCORD_TOKEN = ""
+OPENAI_API_KEY = ""
 
 openai.api_key = OPENAI_API_KEY
 
